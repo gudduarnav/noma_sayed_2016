@@ -4,7 +4,7 @@
   
 ### Simulation of the paper titled "Power Allocation Strategies for Non-Orthogonal Multiple Access".  
 #### M. M. El-Sayed, A. S. Ibrahim and M. M. Khairy, "Power allocation strategies for Non-Orthogonal Multiple Access," *Proc. Int. Conf. Sel. Topics Mobile Wireless Netw. (MoWNeT)*, Cairo, Egypt, 2016, pp. 1-6  
-##### (DOI: 10.1109/MoWNet.2016.7496633).  
+##### [DOI: 10.1109/MoWNet.2016.7496633](https://ieeexplore.ieee.org/document/7496633).  
   
   
 Abstract— Non-Orthogonal Multiple Access (NOMA) is considered as a promising downlink Multiple Access (MA) scheme for future radio access. In this paper two power allocation strategies for NOMA are proposed. The first strategy is based on channel state information experienced by NOMA users. The other strategy is based on pre-defined QoS per NOMA user. In this paper we develop mathematical models for the proposed strategies. Also we clarify the potential gains of NOMA using proposed power allocation strategies over Orthogonal Multiple Access (OMA). Simulation results showed that NOMA performance using the proposed strategies achieves superior performance compared to that for OMA.  
